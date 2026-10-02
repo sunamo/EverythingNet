@@ -4,6 +4,10 @@
 
 # EverythingNet ![](media/site_logo.gif)
 
+## Short description
+
+Fork C# knihovny EverythingNet, která obaluje vyhledávač Everything od voidtools a umožňuje velmi rychle hledat soubory a složky z .NET. Obsahuje knihovnu, benchmarky a testy. Slouží jako referenční zdroj pro vlastní klienta Everything.
+
 ## Check demo app
 
 https://github.com/ju2pom/EverythingNetDemo
